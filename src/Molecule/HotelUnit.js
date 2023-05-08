@@ -8,7 +8,7 @@ const Hotel = styled.div`
   background-color: dodgerblue;
 `;
 function HotelUnit() {
-  return <Hotel>HotelUnit</Hotel>;
+  return <Hotel>Hotel Name</Hotel>;
 }
 
 export default HotelUnit;
